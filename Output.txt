@@ -1,0 +1,504 @@
+Problem 1
+AA...O
+P..Q.O
+PXXQ.O
+P..Q..
+B...CC
+B.RRR.
+
+A*: Goal found
+Expanded nodes:239
+total states:476
+Goal reached in 0.08023 seconds
+
+Problem 2
+A..OOO
+A..B.P
+XX.BCP
+QQQ.CP
+..D.EE
+FFDGG.
+
+A*: Goal found
+Expanded nodes:820
+total states:3151
+Goal reached in 0.36177 seconds
+
+Problem 3
+......
+......
+.XXO..
+.AAO.P
+.B.O.P
+.BCC.P
+
+A*: Goal found
+Expanded nodes:460
+total states:2242
+Goal reached in 0.27276 seconds
+
+Problem 4
+O..P..
+O..P..
+OXXP..
+..AQQQ
+..A..B
+..RRRB
+
+A*: Goal found
+Expanded nodes:156
+total states:480
+Goal reached in 0.06197 seconds
+
+Problem 5
+AA.O.B
+P..OQB
+PXXOQG
+PRRRQG
+D...EE
+D...FF
+
+A*: Goal found
+Expanded nodes:241
+total states:407
+Goal reached in 0.04157 seconds
+
+Problem 6
+AA.B..
+CC.BOP
+.XXQOP
+DDEQOP
+F.EQ..
+F..RRR
+
+A*: Goal found
+Expanded nodes:176
+total states:318
+Goal reached in 0.03526 seconds
+
+Problem 7
+.ABBCD
+.A.ECD
+.XXE.F
+..II.F
+...H..
+...H..
+
+A*: Goal found
+Expanded nodes:2025
+total states:6747
+Goal reached in 0.85540 seconds
+
+Problem 8
+...AAO
+..BBCO
+XXDECO
+FFDEGG
+HHIPPP
+KKIQQQ
+
+A*: Goal not found
+Goal reached in 0.70280 seconds
+
+Problem 9
+.ABBCC
+.A.DEE
+XX.DOF
+PQQQOF
+P.G.OH
+P.G..H
+
+A*: Goal found
+Expanded nodes:428
+total states:1243
+Goal reached in 0.13451 seconds
+
+Problem 10
+AAB.CC
+DDB..O
+PXX..O
+PQQQ.O
+P..EFF
+GG.EHH
+
+A*: Goal found
+Expanded nodes:1369
+total states:8349
+Goal reached in 1.08586 seconds
+
+Problem 11
+OAAP..
+O..P..
+OXXP..
+..BQQQ
+..B..E
+..RRRE
+
+A*: Goal found
+Expanded nodes:692
+total states:2963
+Goal reached in 0.41838 seconds
+
+Problem 12
+ABB..O
+A.P..O
+XXP..O
+..PQQQ
+....C.
+RRR.C.
+
+A*: Goal not found
+Goal reached in 1.10429 seconds
+
+Problem 13
+AABBC.
+..D.CO
+.EDXXO
+PE.FFO
+P..GHH
+PIIGKK
+
+A*: Goal found
+Expanded nodes:2893
+total states:12270
+Goal reached in 1.73125 seconds
+
+Problem 14
+AAB...
+..B.CC
+DEXXFG
+DEHHFG
+..I.JJ
+KKI...
+
+A*: Goal found
+Expanded nodes:8236
+total states:35183
+Goal reached in 8.63377 seconds
+
+Problem 15
+.AABB.
+CCDDOP
+QRXXOP
+QREFOP
+QREFGG
+.HHII.
+
+A*: Goal found
+Expanded nodes:419
+total states:1931
+Goal reached in 0.24581 seconds
+
+Problem 16
+AABBCO
+D.EECO
+DFPXXO
+.FPQQQ
+..P...
+GG....
+
+A*: Goal not found
+Goal reached in 6.42695 seconds
+
+Problem 17
+AOOO..
+A.BBCC
+XXD...
+EEDP..
+QQQPFG
+RRRPFG
+
+A*: Goal found
+Expanded nodes:1028
+total states:4995
+Goal reached in 0.63001 seconds
+
+Problem 18
+AABO..
+CCBO..
+PXXO..
+PQQQ..
+PDD...
+RRR...
+
+A*: Goal found
+Expanded nodes:1057
+total states:4969
+Goal reached in 0.73146 seconds
+
+Problem 19
+..ABB.
+..A.J.
+.DXXJ.
+.DEEF.
+.OOOF.
+......
+
+A*: Goal found
+Expanded nodes:462
+total states:2388
+Goal reached in 0.32078 seconds
+
+Problem 20
+A..OOO
+ABBC..
+XXDC.P
+..D..P
+..EFFP
+..EQQQ
+
+A*: Goal found
+Expanded nodes:2008
+total states:7414
+Goal reached in 1.08277 seconds
+
+Problem 21
+AABO..
+P.BO..
+PXXO..
+PQQQ..
+......
+...RRR
+
+A*: Goal found
+Expanded nodes:246
+total states:871
+Goal reached in 0.13626 seconds
+
+Problem 22
+..AOOO
+B.APCC
+BXXP..
+.D.PEE
+FDGG.H
+FQQQ.H
+
+A*: Goal found
+Expanded nodes:1665
+total states:4988
+Goal reached in 0.72879 seconds
+
+Problem 23
+..OOOP
+..ABBP
+..AXXP
+..CDEE
+..CDFF
+..QQQ.
+
+A*: Goal found
+Expanded nodes:370
+total states:892
+Goal reached in 0.14502 seconds
+
+Problem 24
+..ABB.
+.CA...
+DCXXE.
+DFF.E.
+OOO.G.
+HH..G.
+
+A*: Goal found
+Expanded nodes:3637
+total states:24388
+Goal reached in 4.11966 seconds
+
+Problem 25
+AAB.CC
+DDB..O
+PXX.EO
+PQQQEO
+PF.GHH
+.F.GII
+
+A*: Goal found
+Expanded nodes:6295
+total states:44849
+Goal reached in 8.99179 seconds
+
+Problem 26
+.A.OOO
+BA.CP.
+BXXCPD
+ERRRPD
+E.F..G
+..FHHG
+
+A*: Goal found
+Expanded nodes:3346
+total states:14273
+Goal reached in 2.07322 seconds
+
+Problem 27
+ABBO..
+ACCO..
+XXDO.P
+..DEEP
+..F..P
+..FRRR
+
+A*: Goal found
+Expanded nodes:1572
+total states:5305
+Goal reached in 0.76175 seconds
+
+Problem 28
+OOOA..
+..PABB
+XXP...
+CDPEEQ
+CDRRRQ
+FFGG.Q
+
+A*: Goal not found
+Goal reached in 2.40009 seconds
+
+Problem 29
+OOO.P.
+..A.P.
+XXA.PB
+CDDEEB
+CFFG.H
+RRRG.H
+
+A*: Goal not found
+Goal reached in 4.89373 seconds
+
+Problem 30
+O.APPP
+O.AB..
+OXXB..
+CCDD.Q
+.....Q
+EEFF.Q
+
+A*: Goal found
+Expanded nodes:915
+total states:3724
+Goal reached in 0.49835 seconds
+
+Problem 31
+AA.OOO
+...BCC
+DXXB.P
+D.QEEP
+FFQ..P
+..QRRR
+
+A*: Goal not found
+Goal reached in 8.99907 seconds
+
+Problem 32
+AAOBCC
+..OB..
+XXO...
+DEEFFP
+D..K.P
+HH.K.P
+
+A*: Goal found
+Expanded nodes:494
+total states:2031
+Goal reached in 0.30659 seconds
+
+Problem 33
+.AR.BB
+.AR...
+XXR...
+IDDEEP
+IFFGHP
+QQQGHP
+
+A*: Goal not found
+Goal reached in 4.75643 seconds
+
+Problem 34
+A..RRR
+A..B.P
+XX.BCP
+QQQDCP
+..EDFF
+IIEHH.
+
+A*: Goal found
+Expanded nodes:2877
+total states:13072
+Goal reached in 2.15935 seconds
+
+Problem 35
+..OAAP
+..OB.P
+XXOB.P
+KQQQ..
+KDDEF.
+GG.EF.
+
+A*: Goal not found
+Goal reached in 5.28091 seconds
+
+Problem 36
+OPPPAA
+OBCC.Q
+OBXX.Q
+RRRD.Q
+..EDFF
+GGE...
+
+A*: Goal found
+Expanded nodes:1740
+total states:9777
+Goal reached in 1.55554 seconds
+
+Problem 37
+AAB.CC
+DDB.OP
+QXX.OP
+QRRROP
+Q..EFF
+GG.EHH
+
+A*: Goal found
+Expanded nodes:919
+total states:4787
+Goal reached in 0.70543 seconds
+
+Problem 38
+A..OOO
+ABBC..
+XXDC.R
+..DEER
+..FGGR
+..FQQQ
+
+A*: Goal found
+Expanded nodes:2084
+total states:6621
+Goal reached in 1.20183 seconds
+
+Problem 39
+..AOOO
+..AB..
+XXCB.R
+DDCEER
+FGHH.R
+FGII..
+
+A*: Goal found
+Expanded nodes:3765
+total states:17278
+Goal reached in 3.17492 seconds
+
+Problem 40
+OAA.B.
+OCD.BP
+OCDXXP
+QQQE.P
+..FEGG
+HHFII.
+
+A*: Goal found
+Expanded nodes:1663
+total states:8236
+Goal reached in 1.10932 seconds
+
